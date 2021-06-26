@@ -9,3 +9,5 @@ Esta es una modificación para la prueba de github desktop
 
 Esta es un cambio desde la web para demostrar el pull en github desktop
 
+## Cambios desde visual code
+Este es un mensaje escrito desde visual studio code
